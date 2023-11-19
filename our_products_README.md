@@ -1,15 +1,7 @@
 <center>
         <h1 style="color: #872341;" class="baslik"> Müzik Dükkanım</h1>
         </center>
-<style>
-     ol {
-        text-align: center;
-        list-style-position: inside;
-    }
-    a{
-        color: #872341;
-    }
-</style>
+
 
 <p align="center">
   <a href="README.md">Ana Sayfa </a>
